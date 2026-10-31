@@ -1,8 +1,10 @@
-## BlueberrypAI 팀
+## TEAM BLUEBERRYPAI
 
 <img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/f4bfdad9-2afd-4ac1-b474-a69405f9c725" />
 
-### Re:Source AI
+
+
+### SCRAP
 
 중소 제조기업 폐기물 담당자를 위한 **폐기물 처리 의사결정 AI 에이전트**입니다.
 폐기물 정보를 자연어와 문서로 입력하면 리스크를 반영한 경제성·환경성 기준으로 처리 방식을 비교한 후 보고서로 결과를 게시합니다.
