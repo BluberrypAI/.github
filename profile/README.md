@@ -17,7 +17,7 @@
 | [scrap-infra](https://github.com/BluberrypAI/scrap-infra) | 통합 실행, Azure 리소스 정의 |
 | [.github](https://github.com/BluberrypAI/.github) | 팀 공통 규칙, 템플릿 |
 
-
+### 팀원
 <table>
   <tr>
     <td align="center" width="160">
