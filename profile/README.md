@@ -1,6 +1,5 @@
 ## 블루베리 파이 (Team BluberrypAI)
-
-<img width="1200" height="560" alt="SCRAP" src="https://github.com/user-attachments/assets/f4bfdad9-2afd-4ac1-b474-a69405f9c725" />
+AI Bootcamp Innovation Challenger 2026 참가팀
 
 ### SCRAP의 솔루션
 https://app.scrap-ai.org/
@@ -32,6 +31,8 @@ scrap-web ──▶ scrap-server ──▶ scrap-diagnosis   (분류 판정)
 ```
 
 ### 팀원
+
+<img width="1200" height="560" alt="SCRAP" src="https://github.com/user-attachments/assets/f4bfdad9-2afd-4ac1-b474-a69405f9c725" />
 <table>
   <tr>
     <td align="center" width="160">
