@@ -2,7 +2,9 @@
 
 <img width="1200" height="560" alt="SCRAP" src="https://github.com/user-attachments/assets/f4bfdad9-2afd-4ac1-b474-a69405f9c725" />
 
-### 서비스 SCRAP의 솔루션
+### SCRAP의 솔루션
+https://app.scrap-ai.org/
+
 <img width="2560" height="1381" alt="스크린샷(719)" src="https://github.com/user-attachments/assets/60630af5-d184-4f70-80c2-40798d043146" />
 
 법 조문을 근거로 폐기물 분류부터 업체 연결까지의 길을 안내하고, 그 과정을 기록합니다.
